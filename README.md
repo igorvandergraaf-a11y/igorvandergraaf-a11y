@@ -10,5 +10,4 @@ Tax technologist operating at the intersection of **M&A Tax** and **Data Enginee
 
 ### Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/igorvandergraaf/
