@@ -1,6 +1,6 @@
 # Igor van der Graaf
 
-Tax technologist operating at the intersection of **M&A Tax** and **Data Engineering**. I build automated pipelines, document parsers, and interactive analytical tools to replace legacy advisory workflows.
+Tax technologist operating at the intersection of **M&A Tax** and **Legal Engineering**. I build automated pipelines, document parsers, and interactive analytical tools to replace legacy advisory workflows.
 
 ### Focus & Tooling
 
